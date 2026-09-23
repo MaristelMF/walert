@@ -1,0 +1,25 @@
+2026-09-22 22:05:04,973 - INFO - User Question: what programs are available in rmit?
+2026-09-22 22:05:16,850 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-22 22:07:01,933 - INFO - User Question: is the transfer from associate degree to bachelor's automatic?
+2026-09-22 22:07:04,311 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-22 22:10:54,671 - INFO - User Question: python RAG_SYSTEM.py
+2026-09-22 22:10:55,214 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-22 22:23:49,496 - INFO - User Question: is the transfer from associate degree to bachelor's automatic
+2026-09-22 22:23:53,428 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-22 22:23:53,466 - INFO - Ollama Answer: NA
+2026-09-22 22:25:01,990 - INFO - User Question: what programs are available in rmit?
+2026-09-22 22:25:10,362 - INFO - HTTP Request: POST http://localhost:11434/v1/chat/completions "HTTP/1.1 200 OK"
+2026-09-22 22:25:10,372 - INFO - Ollama Answer: Based on the retrieved documents, here are the programs available in RMIT:
+
+1. Software Engineering (SE) program
+2. Computer Science (CS) program
+
+Both programs have similar structures in the first two years, with the main difference being the industry placement in the third year for SE students. The concluding year also has slight variations between the two programs, with SE students taking on a large in-house project and further electives, and CS students pursuing more core courses and electives.
+
+Additionally, RMIT offers various WIL (Work-Integrated Learning) components, including:
+
+* Industry placement (mandatory for SE students and optional for other students)
+* Capstone project (mandatory for all students except SE students)
+* Summer projects and industry events, such as ANZ hackathon, AIIA iAwards competition, and other coding/ security competitions.
+
+NA
